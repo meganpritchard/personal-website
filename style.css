@@ -1,13 +1,33 @@
+html {
+  min-height: 100%;
+}
 body {
-  background-color: whitesmoke;
+  min-height: 100%;
+  background-image: url("images/background1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 h1 {
-  color: slategray;
+  color: whitesmoke;
   font-family: calibri;
   text-align: center;
 }
 p {
-  color: slategray;
+  color: whitesmoke;
   font-family: calibri;
   text-align: center;
 }
+
+a:link {
+  color: whitesmoke;
+}
+a:visited {
+  color: whitesmoke;
+}
+a:hover {
+  color: mediumturquoise;
+}
+a:active {
+  color: mediumturquoise;
+}
+
