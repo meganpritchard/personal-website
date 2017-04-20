@@ -25,9 +25,9 @@ a:visited {
   color: whitesmoke;
 }
 a:hover {
-  color: mediumturquoise;
+  color: rgb(255, 140, 102);
 }
 a:active {
-  color: mediumturquoise;
+  color: rgb(255, 140, 102);
 }
 
