@@ -12,11 +12,13 @@ h1 {
   color: whitesmoke;
   font-family: calibri;
   text-align: center;
+  top: 30%
 }
 p {
   color: whitesmoke;
   font-family: calibri;
   text-align: center;
+  bottom: 30%
 }
 
 a:link {
