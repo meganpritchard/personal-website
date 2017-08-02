@@ -8,8 +8,12 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  display: table;
+}
+content {
   display: table-cell;
   vertical-align: middle;
+  text-align: center;
 }
 h1 {
   color: whitesmoke;
